@@ -1,0 +1,5 @@
+﻿main.obj : error LNK2001: неразрешенный внешний символ _SDL_Init.
+main.obj : error LNK2001: неразрешенный внешний символ _SDLNet_Init.
+main.obj : error LNK2001: неразрешенный внешний символ _SDL_CreateWindow.
+MSVCRT.lib(exe_main.obj) : error LNK2001: неразрешенный внешний символ _main.
+D:\VSprojects\SDL2_Template — копия\Release\client.exe : fatal error LNK1120: неразрешенных внешних элементов: 4
